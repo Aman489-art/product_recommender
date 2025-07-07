@@ -31,7 +31,7 @@ product_recommender/
 
 1. **Clone the repo**
     ```bash
-    git clone https://github.com/yourusername/product_recommender.git
+    git clone https://github.com/Aman489-art/product_recommender.git
     cd product_recommender
     ```
 
